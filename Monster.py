@@ -1,4 +1,5 @@
 import random
+from time import time
 from Range import *
 from Weapon import *
 from Player import *
